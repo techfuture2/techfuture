@@ -1,7 +1,7 @@
 # techfuture
-Versão 1.0
-Status do Projeto: ⚠️Espera 
-Tópicos 
+#Versão 1.0
+#Status do Projeto: ⚠️Espera 
+#Tópicos 
 🔹 Descrição do projeto
 
 🔹 Funcionalidades
