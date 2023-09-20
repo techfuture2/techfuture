@@ -21,14 +21,14 @@ O ReciCasa é um projeto dedicado à gestão eficiente da coleta seletiva de res
 ## Pré-Requisitos
 
 - **Navegador Web:** O ReciCasa é uma aplicação web
-- 
+  
 - **Editor de Código:** Ultilizado para modificar e visualizar os arquivos HTML, CSS e JavaScript. 
 
 - **Git:** Ultilizado paraclonar o repositório Git do ReciCasa para seu ambiente local
 
 ## Instalação
 
-
+O ResiCasa ainda está em desenvolvimento e não está pronto para instalação em produção. 
 
 ## Uso
 
@@ -36,9 +36,6 @@ O ReciCasa é um projeto dedicado à gestão eficiente da coleta seletiva de res
 - Login ou criar uma conta.
 - Agende a coleta seletiva, obtenha lembretes e orientações.
 - Acompanhe o histórico de coleta e forneça feedback.
-
-## Contribuição
-
 
 ## Autores
 
