@@ -1,89 +1,50 @@
-# techfuture
+# ReciCasa: Gestão Eficiente da Coleta Seletiva em Condomínios
 
-# Versão: 1.0
+## Visão Geral
 
-# Status do Projeto: ⚠️ Espera 
+O ReciCasa é um projeto dedicado à gestão eficiente da coleta seletiva de resíduos em condomínios residenciais. Seu principal objetivo é facilitar o processo de coleta seletiva, tornando-o acessível para os moradores, ao mesmo tempo em que promove a separação adequada de materiais recicláveis. Através de um site intuitivo, o administrador pode agendar a coleta conforme necessidade, e a partir disto os moradores irão receber informações sobre a separação correta de resíduos, obter lembretes sobre os dias de coleta e até mesmo acompanhar o histórico de coleta. Além disso, o sistema permite que os moradores forneçam feedback e relatem problemas relacionados à gestão de resíduos.
 
-# Tópicos
-🔹 Descrição do projeto
+## Funcionalidades Principais
 
-🔹 Funcionalidades
+- Agendamento de Coleta Seletiva.
+- Notificações e Lembretes sobre Dias de Coleta.
+- Orientações sobre Separação Adequada de Materiais Recicláveis.
+- Histórico de Coleta.
+- Sistema de Feedback e Relatórios de Problemas.
 
-🔹 Distribuição
+## Tecnologias Utilizadas
 
-🔹 Pré-requisitos
+- Linguagem de Programação: JavaScript, HTML, CSS.
+- Banco de Dados: MySQL.
+- Front-end: HTML, CSS, JavaScript.
 
-🔹 Como rodar a aplicação
+## Pré-Requisitos
 
-🔹 Testes realizados
+- **Navegador Web:** O ReciCasa é uma aplicação web
+- 
+- **Editor de Código:** Ultilizado para modificar e visualizar os arquivos HTML, CSS e JavaScript. 
 
-🔹 Banco de Dados
+- **Git:** Ultilizado paraclonar o repositório Git do ReciCasa para seu ambiente local
 
-🔹 Linguagens, dependências e libs utilizadas
+## Instalação
 
-🔹 Novas Recursos
 
-🔹 Resolvendo problemas
 
-🔹 Recursos inseridos
+## Uso
 
-🔹 Desenvolvedores/Contribuintes
+- Acesso ao site.
+- Login ou criar uma conta.
+- Agende a coleta seletiva, obtenha lembretes e orientações.
+- Acompanhe o histórico de coleta e forneça feedback.
 
-🔹 Informações Extras
+## Contribuição
 
-...
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
+## Autores
 
-Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+- [Gabriel Ferraz]
+- [Jonathan Lensk]
+- [Stefany Fernandes]
 
-Funcionalidades ⚙️
-✔️ Funcionalidade 1
 
-✔️ Funcionalidade 2
 
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
-
-Distribuição
-Link para teste da versão disponibilizada.
-
-Pré-requisitos ⚠️
-Versão do Android; SDK; Aparelho utilizado para testes.
-
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
-Como rodar a aplicação
-Explicação de como se deve utilizar o projeto.
-
-Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
-
-Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
-
-Linguagens, dependencias e libs utilizadas 📚
-Android Studio
-
-XML ... Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
-
-Resolvendo Problemas
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
-
-Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
-
-Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
-
-Licença
-The MIT License (MIT)
-
-Copyright ©️ Ano - Titulo do Projeto
